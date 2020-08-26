@@ -1,4 +1,4 @@
 name = ['Ariel']
-  names.each do |name|
+  name.each do |name|
     puts "Hell, my name is #{name}."
 end
