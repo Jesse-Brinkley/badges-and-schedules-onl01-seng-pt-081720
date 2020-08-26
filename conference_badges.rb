@@ -1,4 +1,3 @@
-def badge_maker(name, attendees)
+def badge_maker(name)
   p "Hello, my name is #{name}."
-  p "Hello, my name is #{attendees}"
 end
